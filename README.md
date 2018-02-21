@@ -54,6 +54,6 @@
 	- With one hand holding on to the tool held in the drill chuck, give the top of the drawbar a firm hit with the wrench to release the tool and drill chuck.
 - Loading
 	- Unplug machine.
-	- Fit the drill chuck within a collet that is a match, then place the collet and drill chuck pair into the spindle opening. 
+	- Fit the drill chuck within a collet of the appropriate size, then place the collet and drill chuck pair into the spindle opening. 
 	- With one hand holding on on to the pair, tighten the drawbar by hand with the other. Once a grip is established, the drawbar must be further tightened with a wrench. *A small space should be left between the top of the drill chuck and the spindle*. 
 
