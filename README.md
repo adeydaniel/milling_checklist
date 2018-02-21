@@ -9,7 +9,7 @@
 
 
 ## Safety Reminders
-- Check self for proper attire such as safety glasses, no loose clothing, cords, rings, watches, uncontained unrestrained hair, etc.
+- Check self for proper attire such as safety glasses, no loose clothing, cords, rings, watches, unrestrained hair, etc.
 - _Unplug the machine_.
 - Clear the worktable of non-essential parts.
 
