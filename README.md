@@ -7,6 +7,7 @@
 1. [Cutting a Piece to Specification](#cutting-a-piece-to-specification)
 1. [Finding the Origin of a Workpiece](#finding-the-origin-of-a-workpiece)
 1. [How to Remove and Load the Drill Chuck onto the Milling Machine](#how-to-remove-and-load-the-drill-chuck-onto-the-milling-machine)
+1. [Projects](#projects)
 
 
 ## Safety Reminders
@@ -56,4 +57,18 @@
 	- Unplug machine.
 	- Fit the drill chuck within a collet of the appropriate size, then place the collet and drill chuck pair into the spindle opening. 
 	- With one hand holding on on to the pair, tighten the drawbar by hand with the other. Once a grip is established, the drawbar must be further tightened with a wrench. *A small space should be left between the top of the drill chuck and the spindle*. 
+
+## Projects
+
+### Helper for milling project mill-117
+- Secure piece in mill vise so that the end of the piece is sticking out 3/8'' with datum A against the fixed jaw and datum B on the parallels.
+- Mill a small amount from the end and deburr.
+- Mill the other end to ~ 2 thousandth of an inch over 3 inches and debur.
+- Scribe on the front surface.
+- Touch tool to top of piece and zero on the knee micrometer.
+- Raise the table by 0.250'' in steps and cut from the right edge to 1/32'' of datum F. Take measuremnts and cut to F in increments.
+- Set the x-axis to zero. This will be the reference point to cut to datum G.
+- Raise the table 0.300'' more and mill from the right edge to datum G in increments. Make use of the zero set at datum F to mill to G (0.500'').
+- Bring endmill to the middle between datum D and E. There should be be about 1/6'' of clearance on both sides. Mill to datum D first, then to E leaving a slot of 0.563'' +/- 0.005.
+
 
