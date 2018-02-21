@@ -6,7 +6,7 @@
 1. [Safety Reminders](#safety-reminders)
 1. [Cutting a Piece to Specification](#cutting-a-piece-to-specification)
 1. [Finding the Origin of a Workpiece](#finding-the-origin-of-a-workpiece)
-1. [How to Load and Remove the Drill Chuck onto the Milling Machine](#how-to-load-and-remove-the-drill-chuck-onto-the-milling-machine)
+1. [How to Remove and Load the Drill Chuck onto the Milling Machine](#how-to-remove-and-load-the-drill-chuck-onto-the-milling-machine)
 
 
 ## Safety Reminders
