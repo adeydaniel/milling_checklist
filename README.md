@@ -2,18 +2,18 @@
 
 > DISCLAIMER: I am a beginner at operating machines. This is my attempt to distill the various operations I am learning into organized checklists as I learn them. By all means, this checklist is NOT to be presumed accurate, safe to use, or best practice. *Use at your own risk!!!*
 
-##Contents
+## Contents
 1. [Safety Reminders](#safety-reminders)
 1. [Cutting a Piece to Specification](#cutting-a-piece-to-specification)
 1. [Finding the Origin of a Workpiece](#finding-the-origin-of-a-workpiece)
 
 
-##Safety Reminders
+## Safety Reminders
 - Check self for proper attire such as safety glasses, no loose clothing, cords, rings, watches, hair, etc.
 - _Unplug the machine_.
 - Clear the worktable of non-essential parts.
 
-##Cutting a Piece to Specification
+## Cutting a Piece to Specification
 - Go over [safety measures](#safety-reminders).
 - Use indicator to check levelness of fixed vise jaw.
 - Make certain the vise is free of chips.
@@ -29,7 +29,7 @@
 - Take the final cuts in small increments to approach 0.005 above the final dimension. A second or third pass of the endmill at the same setting will remove 0.001 to 0.002 inches to get the length to within the specified tolerance.
 
 
-##Finding the Origin of a Workpiece
+## Finding the Origin of a Workpiece
 
 - Take the necessary [safety measures](#safety-reminders) as detailed in the Milling Machine Safety Guidelines.
 - Check the levelness of the fixed jaw of the vise with an indicator.
