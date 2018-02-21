@@ -6,6 +6,7 @@
 1. [Safety Reminders](#safety-reminders)
 1. [Cutting a Piece to Specification](#cutting-a-piece-to-specification)
 1. [Finding the Origin of a Workpiece](#finding-the-origin-of-a-workpiece)
+1. [How to Load and Remove the Drill Chuck onto the Milling Machine](#how-to-load-and-remove-the-drill-chuck-onto-the-milling-machine)
 
 
 ## Safety Reminders
@@ -44,3 +45,14 @@
 -  Slowly move the table on the x-axis towards the off-center spinning edge finder until the spinning becomes concentric. Move further just until bottom cylinder falls out of alignment. Stop and turn off the spindle. Zero the readout and the dial on the table crank.
 -  Lift the quill and move the table in the same direction as before by the radius of the edge finder (*diameter should be checked with a caliper*). Now, this is the zero of the x-axis. Repeat the zeroing of the digital readout and the dial on the table crank. 
 - To find the zero point on the y-axis, the above steps can be repeated with the exception that the spinning edge finder approaches the vise surface. 
+
+## How to Remove and Load the Drill Chuck onto the Milling Machine
+- Removing
+	- Unplug machine.
+	- Raise the quill to expose the drawbar above the head of the machine.
+	- while holding down the brake, turn the drawbar with a wrench a full turn, then loosen with fingers three whole turns.
+	- With one hand holding on to the tool held in the drill chuck, give the top of the drawbar a firm hit with the wrench to release the tool and drill chuck.
+- Loading
+	- Fit the drill chuck within a collet that is a match, then place the collet and drill chuck pair into the spindle opening. 
+	- With one hand holding on on to the pair, tighten the drawbar by hand with the other. Once a grip is established, the drawbar must be further tightened with a wrench. *A small space should be left between the top of the drill chuck and the spindle*. 
+
