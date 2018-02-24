@@ -4,7 +4,7 @@
 
 ## Contents
 1. [Safety Reminders](#safety-reminders)
-1. [Cutting a Piece to Specification](#cutting-a-piece-to-specification)
+1. [Cutting a Piece to Specified length](#cutting-a-piece-to-specified-length)
 1. [Finding the Origin of a Workpiece](#finding-the-origin-of-a-workpiece)
 1. [How to Remove and Load the Drill Chuck onto the Milling Machine](#how-to-remove-and-load-the-drill-chuck-onto-the-milling-machine)
 1. [Projects](#projects)
@@ -15,7 +15,7 @@
 - _Unplug the machine_.
 - Clear the worktable of non-essential parts.
 
-## Cutting a Piece to Specification
+## Cutting a Piece to Specified length
 - Go over [safety measures](#safety-reminders).
 - Use indicator to check levelness of fixed vise jaw.
 - Make certain the vise is free of chips.
@@ -52,7 +52,7 @@
 	- Unplug machine.
 	- Raise the quill to expose the drawbar above the head of the machine.
 	- while holding down the brake, turn the drawbar with a wrench a full turn, then loosen with fingers three whole turns.
-	- With one hand holding on to the tool held in the drill chuck, give the top of the drawbar a firm hit with the wrench to release the tool and drill chuck.
+	- With one hand holding on to the drill chuck, give the top of the drawbar a firm hit with the wrench to release the drill chuck.
 - Loading
 	- Unplug machine.
 	- Fit the drill chuck within a collet of the appropriate size, then place the collet and drill chuck pair into the spindle opening. 
